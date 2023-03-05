@@ -4,6 +4,8 @@ The primary goal is to list resources that will help patients and developers nav
 
 List content can include, but is not limited to: FHIR endpoints, legislation, Health Information Exchanges (HIE), documentation, patient portals, standards.
 
+Content must list publically available information only.
+
 It is organized by region, as per the [United Nations Geoscheme](https://en.wikipedia.org/wiki/United_Nations_geoscheme), with the addition of a "Global" region to capture digital health IT infrastrucutre resources that are not bound by geograpric, political, economic, or other boundaries. They are further refined by country, and then by whatever further subclassification reflects the local health IT infastructure best.
 
 ## Contents
