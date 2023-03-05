@@ -1,6 +1,6 @@
 # Awesome Health IT Infrastructure [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-> A curated list of publically available information about healthcare IT resources and infrastrucutre.
+> git pu
 
 The primary goal is to list resources that will help patients and developers navigate digital health systems.
 
