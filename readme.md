@@ -1,7 +1,5 @@
 # Awesome Health IT Infrastructure [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-> git pu
-
 The primary goal is to list resources that will help patients and developers navigate digital health systems.
 
 List content can include, but is not limited to: FHIR endpoints, legislation, Health Information Exchanges (HIE), documentation, patient portals, standards.
