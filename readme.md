@@ -39,6 +39,22 @@ It is organized by region, as per the [United Nations Geoscheme](https://en.wiki
 
 ### United States of America
 
+- Articles about the State of Healthcare Interoperability in the USA
+    - [A Simple 21st Century Cures Act Information Blocking Timeline](https://www.particlehealth.com/blog/cures-act-timeline)
+    - [Everything You Need to Know About the Healthcare Interoperability Rules](https://waitingroom.substack.com/p/everything-you-need-to-know-about) 
+    - [The Digital Health Provider’s Guide to Interoperability](https://www.elion.health/resources/guide-interoperability)
+    - [Understanding USCDI, and How It Works With FHIR](https://www.particlehealth.com/blog/understanding-uscdi)
+
+- Electronic Medial Records FHIR Developer Portals and Documentation
+    - [Cerner FHIR API Documentation](https://fhir.cerner.com/)
+    - [Epic FHIR API Documentation](https://fhir.epic.com/)
+    - [Veradigm FHIR API Documentation](https://developer.veradigm.com/Fhir/Introduction)
+    - [Athena FHIR API Documentation](https://docs.athenahealth.com/api/fhir-apis)
+
+- Developer Resources and Tutorials
+    - [docs.smarthealthit.org](https://docs.smarthealthit.org/)
+    - [patient.dev](https://www.patient.dev/)  
+
 ## Asia
 
 ## Europe
